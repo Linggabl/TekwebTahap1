@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Semen ABC",
+    "price": "50000",
+    "stock": 100,
+    "description": "Semen berkualitas tinggi untuk berbagai kebutuhan pembangunan.",
+    "image": "https://via.placeholder.com/400x400.png?text=Semen+ABC"
+  },
+  {
+    "id": 2,
+    "name": "Besi Siku",
+    "price": "70000",
+    "stock": 50,
+    "description": "Besi siku kuat dan tahan lama untuk proyek konstruksi.",
+    "image": "https://via.placeholder.com/400x400.png?text=Besi+Siku"
+  },
+  {
+    "id": 3,
+    "name": "Cat Dulux",
+    "price": "250000",
+    "stock": 30,
+    "description": "Cat tembok Dulux dengan warna tahan lama dan cepat kering.",
+    "image": "https://via.placeholder.com/400x400.png?text=Cat+Dulux"
+  }
+]
